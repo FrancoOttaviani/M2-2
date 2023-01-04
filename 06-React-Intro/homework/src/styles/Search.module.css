@@ -1,0 +1,20 @@
+.searchContainer {
+  padding: 20px;
+}
+
+.searchContainer button {
+  width: 150px;
+  height: 80px;
+  border-radius: 30px;
+  font-size: x-large;
+  font-weight: bold;
+  margin-left: 20px;
+}
+
+.searchContainer input {
+  width: 250px;
+  height: 80px;
+  border-radius: 30px;
+  text-align: center;
+  font-size: x-large;
+}
